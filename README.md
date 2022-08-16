@@ -52,6 +52,7 @@
 - 1.Open google colab through this link <a>https://colab.research.google.com/</a>
 ![Sample cell in google collab](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/sample_cell.png)
 - 2.Click on upload and then proceed to upload the files in this repository
+![Sample cell in google collab](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/colab.png)
 - 3.Alternatively, you can click on on github(after step 1),then enter the Url to this repository
 - 4.Open the file with extension .ipynb
 - **NB** : A notebook is made of a group of cells that may or may not run independtly.
@@ -100,3 +101,29 @@
 >Question 7: Which words occur the most in movie overviews?
 
 - Answer: The most popular words in movie overviews are **years**,**Twenty**,**two**,**events**
+# Project Status
+> This project is still in progress
+# Room For Improvement
+- 1.Exploring the relationship between the budget and revenue even further
+- 2.Exploring columns like budget_adj and revenue_adj
+
+# Acknowledgements
+>Thanks to ALX and Udacity for this opportunity and special thanks to @<a>https://github.com/Harry6234</a> for guiding me on this project
+
+# References
+
+- https://blog.nycdatascience.com/student-works/machine-learning/     movie-rating-prediction
+- https://github.com/hima888/Investigate-a-Dataset-TMDB-Movie-Data-/blob/master/investigate-a-dataset-template.ipynb
+- https://www.adamsmith.haus/python/answers/how-to-find-the-correlation-between-two-pandas-dataframe-columns-in-python
+- https://plotly.com/python/plotly-express/#scatter-line-area-and-bar-charts
+- https://pythonguides.com/matplotlib-increase-plot-size/#:~:text=Next%2C%20to%20increase%20the%20size,and%20height%20of%20the%20plot.
+- https://machinelearningmastery.com/handle-missing-data-python/
+- https://datagy.io/python-correlation-matrix/
+- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+- https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python
+- https://stackoverflow.com/questions/15221473/how-do-i-update-upgrade-pip-itself-from-inside-my-virtual-environment
+<br>
+
+# CONTACT
+>Created by <a>@akonobea</a>
+>Email me  @<a>akonobeajosiefyn@gmail.com</a>
