@@ -50,6 +50,7 @@
 <a id='setup'></a>
 # Setup
 - 1.Open google colab through this link <a>https://colab.research.google.com/</a>
+![Sample cell in google collab](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/sample_cell.png)
 - 2.Click on upload and then proceed to upload the files in this repository
 - 3.Alternatively, you can click on on github(after step 1),then enter the Url to this repository
 - 4.Open the file with extension .ipynb
@@ -71,15 +72,16 @@
 >Question 1: How is budget data distributed?
 
 - Answer : The histogram shows that budget data is skewed to the left
-	![This is an image](/assets/images/electrocat.png)
+![This is an image](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/budget.png)
 
 >Question 2: Do movies with high popularity have more revenues?
 
 - Answer : Not necessarily.The analysis showed that movies with low popularity have less revenue but movies with high popularity can sometimes have high revenues or low revenues.
-
+![This is an image](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/scatter_plot.png)
 >Question 3:What are the top 20 most popular movies?
 
 - Answer : From the dataset ,we see that the top 20 most popular movies  > are Jurassic World ,Mad Max:Fury Road,Interstellar,Guardians of the Galaxy just to mention a few
+![This is an image](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/top_20.png)
 
 
 >Question 4:What are the top 20 movies with the highest revenue?
@@ -93,6 +95,7 @@
 >Question 6: Which words occur the most in the title of movies?
 
 - Answer: The most popular words in the title of movies are **Jurassic**,**World**, **Fury**, **Mad** occur frequently in the title of movies.
+![This is an image](https://github.com/Akonobea/Investigate_A_Dataset/blob/main/word_cloud.png)
 
 >Question 7: Which words occur the most in movie overviews?
 
